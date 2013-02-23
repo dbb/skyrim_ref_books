@@ -19,4 +19,4 @@ If you want to contribute but can't get the hang of `git`, just post a [gist](ht
 
 See the [example.html](https://github.com/dbb/skyrim_ref_books/blob/master/example.html) file to learn how to create a basic book file.
 
-See [the Creation Kit wiki](http://www.creationkit.com/Book) for mor advanced markup.
+See [the Creation Kit wiki](http://www.creationkit.com/Book) for more advanced markup.
